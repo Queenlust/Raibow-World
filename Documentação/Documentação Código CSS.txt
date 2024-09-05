@@ -1,0 +1,39 @@
+Documentação Código CSS
+
+Estrutura e Objetivo
+
+Este código CSS define o estilo visual de uma página web, utilizando a linguagem CSS3 e a biblioteca Google Fonts. O objetivo principal é criar uma interface de usuário esteticamente agradável e funcional, com foco na legibilidade e usabilidade.
+
+Elementos Estilizados e suas Funções
+- Logo: A imagem da logo é posicionada fixamente no canto superior esquerdo da página.
+- Corpo da página: O corpo da página utiliza uma imagem de fundo, define uma fonte padrão, e centraliza o conteúdo tanto horizontalmente quanto verticalmente.
+- Títulos: Os títulos (h1) são estilizados com um tamanho de fonte maior, negrito e uma cor específica.
+- Seções: As seções são utilizadas para organizar o conteúdo e são estilizadas com um layout flexbox para facilitar o alinhamento dos elementos.
+- Inputs: Os campos de input (como a caixa de pesquisa) são estilizados com bordas arredondadas, sombras e espaçamento adequado.
+- Botões: Os botões são estilizados com cores vibrantes e um cursor que indica que são clicáveis.
+- Resultados da pesquisa: A seção de resultados é estilizada com uma altura máxima e rolagem para acomodar diferentes quantidades de resultados.
+- Itens de resultado: Cada item de resultado é estilizado com um fundo, bordas e espaçamento para se destacar.
+- Rodapé: O rodapé é posicionado na parte inferior da página e contém informações de copyright.
+- Responsividade: O código inclui uma media query para ajustar o layout para telas menores, garantindo que a página seja responsiva.
+
+Utilização de CSS3 e Boas Práticas
+
+- Flexbox: Utilizado extensivamente para criar layouts flexíveis e responsivos.
+- Fontes personalizadas: Importa a fonte Chakra Petch do Google Fonts para uma aparência mais personalizada.
+- Backgrounds: Utiliza imagens de fundo e cores para criar um visual atraente.
+- Sombras e bordas: Adiciona profundidade e realce aos elementos.
+- Responsividade: Utiliza media queries para adaptar o layout a diferentes tamanhos de tela.
+- Semântica: Utiliza classes com nomes significativos para facilitar a manutenção do código.
+
+Principais Classes e Seletores
+
+- .logo: Estiliza a imagem da logo.
+- body: Estiliza o corpo da página.
+- h1: Estiliza os títulos de nível 1.
+- section: Estiliza as seções da página.
+- section input: Estiliza os campos de input dentro das seções.
+- section button: Estiliza os botões dentro das seções.
+- .resultados-pesquisa: Estiliza a seção de resultados da pesquisa.
+- .item-resultado: Estiliza cada item de resultado.
+- footer: Estiliza o rodapé da página.
+

@@ -1,0 +1,61 @@
+Documentação Completa do Código HTML
+
+Introdução
+Este código HTML cria a estrutura básica de uma página web simples com o objetivo de fornecer informações sobre o Transtorno do Espectro Autista (TEA). A página permite que o usuário pesquise por termos específicos relacionados ao TEA.
+
+Estrutura Geral
+<!DOCTYPE html>: Declara que o documento é um documento HTML5.
+<html lang="pt-br">: Define o idioma do documento como português do Brasil.
+<head>: Contém metadados sobre o documento, como o título, codificação de caracteres e informações para dispositivos móveis.
+<body>: Contém o conteúdo visível da página.
+Elementos e Seus Propósitos
+<header>: Contém o título principal da página.
+<main>: Contém o conteúdo principal da página, que é a seção de pesquisa.
+<section>: Define seções dentro do conteúdo principal. Neste caso, temos duas seções: uma para o formulário de pesquisa e outra para exibir os resultados.
+<input type="text">: Um campo de texto onde o usuário digita o termo de pesquisa.
+<button>: Um botão que, ao ser clicado, aciona a função JavaScript pesquisar().
+<section class="resultados-pesquisa">: Uma seção que será preenchida com os resultados da pesquisa, se houver.
+<footer>: Contém informações de rodapé, como copyright e contato.
+Arquivos Externos
+style.css: Um arquivo CSS que contém as regras de estilo para a página.
+dados.js: Um arquivo JavaScript que provavelmente contém os dados sobre o TEA que serão usados na pesquisa.
+app.js: Um arquivo JavaScript que contém a lógica da aplicação, incluindo a função pesquisar().
+Funcionamento Básico
+O usuário acessa a página: O navegador carrega o HTML, CSS e JavaScript.
+O usuário digita um termo: O texto digitado é armazenado no campo de input.
+O usuário clica em "Pesquisar": Isso aciona a função pesquisar() em JavaScript.
+A função pesquisar():
+Captura o termo digitado pelo usuário.
+Procura por esse termo nos dados disponíveis em dados.js.
+Exibe os resultados encontrados na seção resultados-pesquisa.
+
+
+Documentação Detalhada do Código HTML
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raibom World</title>
+    <link rel="stylesheet" href="style.css"> <img src="https://i.ibb.co/1QN6Jjp/RaibomWorld-1-removebg-preview.png" alt="Logo do Raibom World" class="logo">
+  </head>
+  <body>
+    <header>
+      <h1>Transtorno do Espectro Autista (TEA)</h1>
+    </header>
+    <main>
+      <section>
+        <input type="text" placeholder="Digite o especto autista que deseja saber">
+        <button onclick="pesquisar()">Pesquisar</button>
+      </section>
+      <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Rainbow World. Todos os direitos reservados pela REALMS LTDA.</p>
+      <p>Contato: suporte@realms.com.br</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script> </body>
+</html>
