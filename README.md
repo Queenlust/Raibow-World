@@ -28,7 +28,7 @@ Essa aplicação é apenas um ponto de partida para suas pesquisas sobre o TEA. 
 **Consulte sempre um profissional da área para obter informações mais precisas e personalizadas.** <br>
 Vamos juntos construir um mundo mais inclusivo e cheio de conhecimento sobre o TEA!
 
-#RaibomWorld #TEA #Inclusão #DesenvolvimentoWeb #Realms
+** #RaibomWorld #TEA #Inclusão #DesenvolvimentoWeb #Realms **
 
 [![Raibom World](https://img.shields.io/badge/Raibow%20World-%23bc57cd?style=for-the-badge&logoColor=%23190681)](https://raibow-world.vercel.app)
 
