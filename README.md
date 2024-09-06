@@ -20,7 +20,7 @@ Com o Raibom World, você digita uma palavra-chave e pronto: uma chuva de result
 **Quer contribuir com a magia?**
 
 Se você é um desenvolvedor e quer dar um toque especial nessa aplicação, fique à vontade para contribuir!  <br>
-Basta dar uma olhada no código e soltar sua criatividade.
+Basta dar uma olhada no código e na documentação e soltar sua criatividade.
 
 **Lembre-se:**
 
