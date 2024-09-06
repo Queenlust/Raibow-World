@@ -14,31 +14,31 @@ let dados = [
     },
     {
         titulo: "Nível 1 - Leve",
-        descricao: "O autismo nível 1 de suporte, ou Transtorno do Espectro Autista (TEA) de nível 1, se caracteriza por diferenças em comunicação social e comportamentos repetitivos, porém em um grau mais leve. Indivíduos com autismo nível 1 podem ter dificuldades em iniciar e manter conversas, entender as nuances da linguagem não verbal e apresentar interesses intensos em determinados assuntos. Apesar dessas características, muitas pessoas com autismo nível 1 levam vidas independentes e bem-sucedidas.",
+        descricao: "O autismo nível 1 de suporte ou Transtorno do Espectro Autista (TEA) de nível 1, se caracteriza por diferenças em comunicação social e comportamentos repetitivos, porém em um grau mais leve. Indivíduos com autismo nível 1 podem ter dificuldades em iniciar e manter conversas, entender as nuances da linguagem não verbal e apresentar interesses intensos em determinados assuntos. Apesar dessas características, muitas pessoas com autismo nível 1 levam vidas independentes e bem-sucedidas.",
         link: "https://genialcare.com.br/blog/autismo-leve/",
         tags: "leve suporte nivel Nivel"
     },
     {
         titulo: "Nível 2 - Moderado",
-        descricao: "O autismo moderado, ou autismo nível 2 de suporte, é caracterizado por desafios mais significativos na comunicação social e em comportamentos restritos e repetitivos, quando comparado ao autismo leve (nível 1). Pessoas com autismo moderado frequentemente necessitam de suporte adicional para se comunicar de forma eficaz, interagir socialmente e adaptar-se a mudanças em sua rotina. Apesar das dificuldades, com o apoio adequado, elas podem desenvolver habilidades e alcançar um alto grau de autonomia em suas vidas.",
+        descricao: "O autismo moderado ou autismo nível 2 de suporte é caracterizado por desafios mais significativos na comunicação social e em comportamentos restritos e repetitivos, quando comparado ao autismo leve (nível 1). Pessoas com autismo moderado frequentemente necessitam de suporte adicional para se comunicar de forma eficaz, interagir socialmente e adaptar-se a mudanças em sua rotina. Apesar das dificuldades, com o apoio adequado, elas podem desenvolver habilidades e alcançar um alto grau de autonomia em suas vidas.",
         link: "https://genialcare.com.br/blog/autismo-moderado/",
         tags: "moderado suporte nivel Nivel"
     },
     {
         titulo: "Nível 3 - Severo",
-        descricao: "O autismo severo, ou nível 3 de suporte, é caracterizado por desafios significativos na comunicação social e comportamentos restritos e repetitivos que afetam profundamente a vida diária. Pessoas com autismo severo frequentemente apresentam dificuldades graves na linguagem, tanto verbal quanto não verbal, e podem ter comportamentos que podem ser desafiadores para si mesmas e para os outros. Elas geralmente necessitam de suporte intensivo e contínuo para realizar atividades básicas e participar da vida social. Apesar dos desafios, com as intervenções adequadas e um ambiente inclusivo, é possível promover o desenvolvimento de habilidades e melhorar a qualidade de vida dessas pessoas.",
+        descricao: "O autismo severo ou nível 3 de suporte é caracterizado por desafios significativos na comunicação social e comportamentos restritos e repetitivos que afetam profundamente a vida diária. Pessoas com autismo severo frequentemente apresentam dificuldades graves na linguagem, tanto verbal quanto não verbal e podem ter comportamentos que podem ser desafiadores para si mesmas e para os outros. Elas geralmente necessitam de suporte intensivo e contínuo para realizar atividades básicas e participar da vida social. Apesar dos desafios, com as intervenções adequadas e um ambiente inclusivo, é possível promover o desenvolvimento de habilidades e melhorar a qualidade de vida dessas pessoas.",
         link: "https://genialcare.com.br/blog/autismo-severo/",
         tags: "severo suporte nivel Nivel"
     },
     {
         titulo: "Sindrome de Asperger (Condição do espectro autista)",
-        descricao: "A Síndrome de Asperger, anteriormente classificada como um transtorno invasivo do desenvolvimento, faz parte do espectro autista. Pessoas com Síndrome de Asperger geralmente apresentam dificuldades na interação social e na comunicação não verbal, como a linguagem corporal e o contato visual. No entanto, elas costumam ter habilidades linguísticas bem desenvolvidas e um intelecto acima da média. Interesses restritos e repetitivos são comuns, e podem se manifestar em áreas como números, fatos ou sistemas. A Síndrome de Asperger é caracterizada por uma inteligência preservada, mas com desafios específicos nas áreas da socialização e da flexibilidade.",
+        descricao: "A Síndrome de Asperger, anteriormente classificada como um transtorno invasivo do desenvolvimento faz parte do espectro autista. Pessoas com Síndrome de Asperger geralmente apresentam dificuldades na interação social e na comunicação não verbal como a linguagem corporal e o contato visual. No entanto, elas costumam ter habilidades linguísticas bem desenvolvidas e um intelecto acima da média. Interesses restritos e repetitivos são comuns e podem se manifestar em áreas como números fatos ou sistemas. A Síndrome de Asperger é caracterizada por uma inteligência preservada, mas com desafios específicos nas áreas da socialização e da flexibilidade.",
         link: "https://genialcare.com.br/blog/sindrome-de-asperger/",
         tags: "etiologia Asperger asperger Comorbidades sindrome"
     },
     {
         titulo: "Sindrome de Rett (Condição do espectro autista)",
-        descricao: "A Síndrome de Rett é uma condição neurológica rara que afeta principalmente meninas. Caracterizada por um desenvolvimento normal nos primeiros meses de vida, seguido por uma perda de habilidades adquiridas, a Síndrome de Rett se manifesta com dificuldades motoras, como perda da coordenação e movimentos estereotipados das mãos. Além disso, as pessoas com Síndrome de Rett podem apresentar dificuldades de comunicação, respiração irregular e convulsões. Embora a Síndrome de Rett tenha sido anteriormente classificada dentro do espectro autista, atualmente é considerada uma condição distinta, com causas genéticas específicas.",
+        descricao: "A Síndrome de Rett é uma condição neurológica rara que afeta principalmente meninas. Caracterizada por um desenvolvimento normal nos primeiros meses de vida, seguido por uma perda de habilidades adquiridas a Síndrome de Rett se manifesta com dificuldades motoras como perda da coordenação e movimentos estereotipados das mãos. Além disso as pessoas com Síndrome de Rett podem apresentar dificuldades de comunicação, respiração irregular e convulsões. Embora a Síndrome de Rett tenha sido anteriormente classificada dentro do espectro autista, atualmente é considerada uma condição distinta com causas genéticas específicas.",
         link: "https://genialcare.com.br/blog/sindrome-de-rett/",
         tags: "etiologia rett Rett Comorbidades sindrome"
     },
