@@ -8,9 +8,9 @@ Com o Raibom World, você digita uma palavra-chave e pronto: uma chuva de result
 
 **Como a magia acontece?**
 
-**Digite sua palavra-chave:** Escreva qualquer coisa que você queira saber sobre o TEA no campo de pesquisa.
-✨**Abracadabra!**✨ A aplicação vasculha nossa base de dados secreta (ops, quer dizer, pública `dados.js`) e te mostra os resultados mais pertinho da sua busca.
-**Clique e explore:** Cada resultado te leva para um link cheio de informações interessantes sobre o tema.
+* **Digite sua palavra-chave:** Escreva qualquer coisa que você queira saber sobre o TEA no campo de pesquisa.
+* ✨**Abracadabra!**✨ A aplicação vasculha nossa base de dados secreta (ops, quer dizer, pública `dados.js`) e te mostra os resultados mais pertinho da sua busca.
+* **Clique e explore:** Cada resultado te leva para um link cheio de informações interessantes sobre o tema.
 
 **Tecnologias usadas para criar essa maravilha:**
 
