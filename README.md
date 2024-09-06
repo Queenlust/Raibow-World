@@ -1,15 +1,14 @@
 ## ✨ **Raibom World** ✨ - Imersão Dev com Google Gemini
-Sua Busca Mágica por Informações sobre TEA!
 
 **O que faz essa aplicação ser tão especial?**
 
-Imagine um mundo onde encontrar informações sobre o Transtorno do Espectro Autista (TEA) é tão fácil quanto um passe de mágica! ‍ 
+Imagine um mundo onde encontrar informações sobre o Transtorno do Espectro Autista (TEA) é tão fácil quanto um passe de mágica! ‍ <br>
 Com o Raibom World, você digita uma palavra-chave e pronto: uma chuva de resultados relevantes cai direto na sua tela! ✨
 
 **Como a magia acontece?**
 
 * **Digite sua palavra-chave:** Escreva qualquer coisa que você queira saber sobre o TEA no campo de pesquisa.
-* ✨**Abracadabra!**✨ A aplicação vasculha nossa base de dados secreta (ops, quer dizer, pública `dados.js`) e te mostra os resultados mais pertinho da sua busca.
+* ✨ **Abracadabra!** ✨ A aplicação vasculha nossa base de dados secreta (ops, quer dizer, pública `dados.js`) e te mostra os resultados mais pertinho da sua busca.
 * **Clique e explore:** Cada resultado te leva para um link cheio de informações interessantes sobre o tema.
 
 **Tecnologias usadas para criar essa maravilha:**
@@ -20,13 +19,13 @@ Com o Raibom World, você digita uma palavra-chave e pronto: uma chuva de result
 
 **Quer contribuir com a magia?**
 
-Se você é um desenvolvedor e quer dar um toque especial nessa aplicação, fique à vontade para contribuir!  
+Se você é um desenvolvedor e quer dar um toque especial nessa aplicação, fique à vontade para contribuir!  <br>
 Basta dar uma olhada no código e soltar sua criatividade.
 
 **Lembre-se:**
 
 Essa aplicação é apenas um ponto de partida para suas pesquisas sobre o TEA. <br>
-**Consulte sempre um profissional da área para obter informações mais precisas e personalizadas.**
+**Consulte sempre um profissional da área para obter informações mais precisas e personalizadas.** <br>
 Vamos juntos construir um mundo mais inclusivo e cheio de conhecimento sobre o TEA!
 
 #RaibomWorld #TEA #Inclusão #DesenvolvimentoWeb #Realms
