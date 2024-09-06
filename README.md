@@ -1,4 +1,5 @@
-## ✨ Raibom World: Sua Busca Mágica por Informações sobre TEA! ✨ - Imersão Dev com Google Gemini
+## ✨ **Raibom World: Sua Busca Mágica por Informações sobre TEA!** ✨ 
+Imersão Dev com Google Gemini
 
 **O que faz essa aplicação ser tão especial?**
 
@@ -13,9 +14,9 @@ Com o Raibom World, você digita uma palavra-chave e pronto: uma chuva de result
 
 **Tecnologias usadas para criar essa maravilha:**
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) **HTML:** A estrutura básica da nossa página mágica.
-[![CSS3](https://img.shields.io/badge/CSS3-157EFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) **CSS:** O responsável por deixar tudo bonitinho e organizado.
-[![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) **JavaScript:** O cérebro da operação, fazendo a busca e mostrando os resultados.
+* [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) **HTML:** A estrutura básica da nossa página mágica.
+* [![CSS3](https://img.shields.io/badge/CSS3-157EFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) **CSS:** O responsável por deixar tudo bonitinho e organizado.
+* [![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) **JavaScript:** O cérebro da operação, fazendo a busca e mostrando os resultados.
 
 **Quer contribuir com a magia?**
 
