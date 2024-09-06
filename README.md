@@ -1,5 +1,5 @@
-## ✨ **Raibom World: Sua Busca Mágica por Informações sobre TEA!** ✨ 
-Imersão Dev com Google Gemini
+## ✨ **Raibom World** ✨ - Imersão Dev com Google Gemini
+Sua Busca Mágica por Informações sobre TEA!
 
 **O que faz essa aplicação ser tão especial?**
 
@@ -30,5 +30,5 @@ Essa aplicação é apenas um ponto de partida para suas pesquisas sobre o TEA.
 Vamos juntos construir um mundo mais inclusivo e cheio de conhecimento sobre o TEA!
 
 #RaibomWorld #TEA #Inclusão #DesenvolvimentoWeb #Realms
-[![Raibom World](https://img.shields.io/badge/Raibom%20World-blue?style=for-the-badge&logo=book&logoColor=white)](https://raibow-world.vercel.app)]
+[![Raibom World](https://img.shields.io/badge/Seu%20Texto%20Aqui-%23bc57cd?style=for-the-badge&logoColor=%23190681)](https://raibow-world.vercel.app)
 
