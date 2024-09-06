@@ -25,7 +25,7 @@ Basta dar uma olhada no código e soltar sua criatividade.
 
 **Lembre-se:**
 
-Essa aplicação é apenas um ponto de partida para suas pesquisas sobre o TEA.
+Essa aplicação é apenas um ponto de partida para suas pesquisas sobre o TEA. <br>
 **Consulte sempre um profissional da área para obter informações mais precisas e personalizadas.**
 Vamos juntos construir um mundo mais inclusivo e cheio de conhecimento sobre o TEA!
 
